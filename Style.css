@@ -1,0 +1,79 @@
+*{
+	margin: 1;
+	padding: 1;
+
+}
+
+.main{
+	width: 75%;
+	background: linear-gradient(to top, rgba(0,0,0,0,5)20%, rgba(0,0,0,0,5)20%), url(oldwood.jpeg)
+	background-position: center;
+	background-size: cover; 
+	height: 102vh;
+}
+
+.navibar{
+	width: 1200px;
+	height: 70px;
+	margin: right;
+}
+
+.icon{
+	width: 200px;
+	float: left;
+	height: 70px;
+}
+
+.logo{
+	color: darkred;
+	font-size: 35px;
+	font-family: helvetica;
+	padding-left: 20px;
+	float: left;
+	padding-top: 50px;
+}
+}
+.menu{
+	width: 400px;
+	float: left;
+	height: 70px;
+}
+
+ul{
+	float: left;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+}
+
+ul li{
+	list-style: none;
+	margin-left: 62px;
+	margin-top: 27px;
+	font-size: 14px;
+}
+
+ul li a{
+	text-decoration: none;
+	color: darkslateblue;
+	font-family:  helvetica;
+	font-weight: bold;
+	transition: 0.4s ease-in-out;
+}
+.logo {
+	background: img(amitylogo.png);
+	width: 150px;
+	height: 150px;
+	background-position: center;
+	background-size: cover;
+	Margin-left: 40px;
+	margin-top: -25px;
+}
+h5 {
+	float: center;
+
+}
+P {
+	direction: inherit; 
+
+}
